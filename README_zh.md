@@ -20,7 +20,7 @@
 
 要求:
 
-  - Python 3.10+ (建议使用aoaconda3来管理Python环境)
+  - Python 3.10+ (建议使用anaconda3来管理Python环境)
   - System 
       - Linux: glibc 2.28+ and Cuda 12.0+ (如果使用GPU)
       - Windows: WSL with Ubuntu 20.04+ and GEFORCE EXPERIENCE 535.104+ (如果使用GPU)
